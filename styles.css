@@ -63,7 +63,7 @@ header h1 {
 }
 
 .link-btn {
-    background-color: #007bff;
+    background-color: #b7b369;
     color: white;
     text-decoration: none;
     padding: 10px 20px;
@@ -72,7 +72,7 @@ header h1 {
 }
 
 .link-btn:hover {
-    background-color: #0b5345;
+    background-color: #72b01b;
 }
 
 /* Responsive Design */
